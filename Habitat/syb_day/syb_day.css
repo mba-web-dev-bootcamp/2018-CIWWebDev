@@ -110,3 +110,33 @@ margin-top:0;
 background-color:#fff;
 }
 
+table
+{
+	border: 1px solid;
+	font-family: Arial, Helvetica, Geneva, Swiss, sans-serif;
+	font-size: 70%;
+	width:90%;
+}
+
+table.center
+{
+	margin-left: auto;
+	margin-right: auto;
+}
+
+th.width
+{
+	width: 50px;
+}
+
+td
+{
+	border: 1px solid;
+	padding: 5px;
+}
+
+td.center
+{
+	text-align: center;
+}
+
